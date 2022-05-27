@@ -1,7 +1,7 @@
 {
   "name": "client-api",
   "version": "1.0.0",
-  "description": "A component for consensus-healthcare.",
+  "description": "A component for NoFormer-demo.",
   "main": "index.js",
   "author": "hk-company-work",
   "license": "---",
